@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "842589448854",
+    "project_id": "deligent-d9a67",
+    "storage_bucket": "deligent-d9a67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842589448854:android:f2a0989c757ed3266f30b7",
+        "android_client_info": {
+          "package_name": "com.example.deligent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842589448854-4glduru564h745vo6prh211f4gvci5f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deligent",
+            "certificate_hash": "4a949058437b9ba348c6c80aa7b68eb38b59619e"
+          }
+        },
+        {
+          "client_id": "842589448854-i1sa9gsn7sopvb96cv9gtv0ju66k0k9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLGMurRtLFNV-iVUrOwybLqHoWD954Zho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842589448854-i1sa9gsn7sopvb96cv9gtv0ju66k0k9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
